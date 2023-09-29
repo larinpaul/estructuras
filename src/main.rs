@@ -126,4 +126,3 @@ struct Rectangulo {
     alto: u32,
 }
 
-
