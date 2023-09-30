@@ -125,3 +125,4 @@ struct Rectangulo {
     ancho: u32,
     alto: u32,
 }
+
